@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bag-shop": "file:",
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.7",
     "express": "^4.21.1",

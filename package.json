@@ -13,6 +13,8 @@
     "bag-shop": "file:",
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.7",
+    "cookieparser": "^0.1.0",
+    "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.1",
